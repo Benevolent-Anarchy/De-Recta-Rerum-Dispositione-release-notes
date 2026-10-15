@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generator": "ba-release",
+  "version": "0.1.0",
+  "sourceCommit": "c22b99e0febe718130344f67b6dd1c706766423c",
+  "destinations": {
+    "itch-windows": {
+      "type": "itch",
+      "selected": true,
+      "status": "awaiting-store-action",
+      "live": true
+    },
+    "itch-linux": {
+      "type": "itch",
+      "selected": true,
+      "status": "awaiting-store-action",
+      "live": true
+    }
+  }
+}
